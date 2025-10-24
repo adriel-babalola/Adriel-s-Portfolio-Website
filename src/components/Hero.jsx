@@ -31,7 +31,7 @@ const Hero = () => {
 
                     <div className="flex items-center gap-3">
                         <ButtonPrimary
-                            href="/Adriel_Babalola_Resume.pdf"
+                            href="/Adriel_Babalola_FrontEndDev_Resume.pdf"
                             label="Download Resume"
                             icon="download"
                             download={true}
