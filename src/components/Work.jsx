@@ -2,41 +2,41 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+        imgSrc: '/images/jawom1.jpeg',
+        title: 'Church Ministry Website',
+        tags: ['CMS', 'UI/UX', 'Development'],
+        projectLink: 'https://jawomhq.strengthformydays.com/'
+    },
+    {
         imgSrc: '/images/lofi2.png',
         title: 'Full stack music app',
         tags: ['API', 'MVC', 'Development'],
         projectLink: 'https://lofi-launch.vercel.app/'
     },
     {
-        imgSrc: '/images/project-2.jpg',
-        title: 'Free stock photo app',
-        tags: ['API', 'SPA'],
-        projectLink: 'https://pixstock-official.vercel.app/'
-    },
-    {
-        imgSrc: '/images/project-3.jpg',
-        title: 'Recipe app',
+        imgSrc: '/images/lms.jpeg',
+        title: 'LMS Website',
         tags: ['Development', 'API'],
-        projectLink: ''
+        projectLink: 'https://boluwatife127.github.io/OJ-Tech-Academy-V1.0/lms.html'
     },
-    {
-        imgSrc: '/images/project-4.jpg',
-        title: 'Real state website',
-        tags: ['Web-design', 'Development'],
-        projectLink: 'https://github.com/codewithsadee-org/wealthome'
-    },
-    {
-        imgSrc: '/images/project-5.jpg',
-        title: 'eCommerce website',
-        tags: ['eCommerce', 'Development'],
-        projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
-    },
-    {
-        imgSrc: '/images/project-6.jpg',
-        title: 'vCard Personal portfolio',
-        tags: ['Web-design', 'Development'],
-        projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
-    },
+    // {
+    //     imgSrc: '/images/project-4.jpg',
+    //     title: 'Real state website',
+    //     tags: ['Web-design', 'Development'],
+    //     projectLink: ''
+    // },
+    // {
+    //     imgSrc: '/images/project-5.jpg',
+    //     title: 'eCommerce website',
+    //     tags: ['eCommerce', 'Development'],
+    //     projectLink: ''
+    // },
+    // {
+    //     imgSrc: '/images/project-6.jpg',
+    //     title: 'vCard Personal portfolio',
+    //     tags: ['Web-design', 'Development'],
+    //     projectLink: ''
+    // },
 ];
 
 const Work = () => {
