@@ -16,7 +16,7 @@ const works = [
     {
         imgSrc: '/images/lms.jpeg',
         title: 'LMS Website',
-        tags: ['Development', 'API'],
+        tags: ['Development', 'API', 'EdTech'],
         projectLink: 'https://boluwatife127.github.io/OJ-Tech-Academy-V1.0/lms.html'
     },
     // {
